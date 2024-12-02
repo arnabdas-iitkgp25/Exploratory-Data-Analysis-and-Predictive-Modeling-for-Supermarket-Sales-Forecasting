@@ -1,8 +1,8 @@
-# Business Analytics Internship Project
+# Business Analytics Project
 
 ## Forecasting Supermarket Sales
 
-This repository contains the code and findings for the Business Analytics Internship project from Bharat Intern. The main task of the project was to perform exploratory data analysis (EDA) and predict the sales of a global superstore for the next 7 days based on a retail dataset spanning 4 years.
+The main task of the project was to perform exploratory data analysis (EDA) and predict the sales of a global superstore for the next 7 days based on a retail dataset spanning 4 years.
 
 ### Key Information
 
